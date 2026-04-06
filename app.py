@@ -122,7 +122,7 @@ def home():
         <li><code>/api/lookup?query=4230123456789</code></li>
         <li><code>/api/lookup?query=3610456789123</code></li>
     </ul>
-    <p><strong>Note:</strong> Unofficial scraping API. Data site pe depend karta hai.</p>
+    <p><strong>⚠️ DISCLAIMER:</strong> This is an unofficial scraping API. Data availability depends entirely on the upstream source. Results may vary. <strong>USE AT YOUR OWN RISK</strong> — use responsibly and at your own discretion. The author assumes no liability for misuse or legal consequences.</p>
     """
 
 
