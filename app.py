@@ -571,8 +571,9 @@ def home():
       <div class="info-card">
         <div class="info-card-icon">\u26a0\ufe0f</div>
         <h4>Data Source</h4>
-        <p>This is an unofficial scraping API. Data availability depends entirely on the upstream source. Results may vary.</p>
+        <p><strong style="color:var(--red)">USE AT YOUR OWN RISK.</strong> This is an unofficial scraping API with no affiliation to any government or telecom authority. Data accuracy and availability depend entirely on the upstream source and may be incomplete, outdated, or unavailable at any time. The author assumes <strong style="color:var(--red)">no liability whatsoever</strong> for how this API is used. Misuse &mdash; including any activity that violates applicable laws or the privacy of individuals &mdash; is solely the responsibility of the user.</p>
       </div>
+
     </div>
   </div>
 
